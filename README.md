@@ -2,11 +2,13 @@
 
 I'm jjdunbar, an Enterprise Security Architect with a passion for cybersecurity and a fervent advocate for digital privacy.
 
-📈 Interesting fact, I have a degree in computing for business & e-commerce with a major in marketing 🤨 ...
+📈 Interesting fact, I have a degree in computing for business & e-commerce with a major in marketing, which I accept is not often a traditional background for cybersecurity / digital privacy. 
 
-My current obsession lies in the realm of OSINT, CTI, and open-source tooling, where I'm actively engaged in designing and expanding my cybersecurity home-lab. While this may seem contradictory to my privacy advocacy, I'm deeply committed to empowering individuals with the knowledge to safeguard their digital identities and I'm keen to work with folks to explore this area further. 
+I am currently fascinated with the world of OSINT, CTI, open-source tooling and I'm actively designing and building my cybersecurity home-lab. 
 
-Outside of this, I’m a proud and active member of some of the world’s leading professional security associations:
+While those interests may seem contradictory to my privacy advocacy, I'm deeply committed to empowering individuals with the knowledge to safeguard their own digital identities and I'm keen to work with folks to explore this domain further. To this day the trade-offs betwween cybersecurity <> privacy fascinate me. 
+
+Outside of this realm, I’m a proud and active member of some of the world’s leading professional security associations:
 
 - ISACA
 - The SANS Institute

@@ -4,7 +4,9 @@ I’m jjdunbar, an Enterprise Security Architect and Cybersecurity Professional.
 
 📈 Fun fact, I have a degree in computing for business & e-commerce with a major in marketing. 
 
-I'm currently obsessed with OSINT, CTI, open source tooling as well as designing and growing my own cybersecurity home-lab. Outside of that I’m a proud and active member of some of the world’s leading professional security associations:
+I'm currently obsessed with OSINT, CTI, open source tooling as well as designing and growing my own cybersecurity home-lab.
+
+Outside of that I’m a proud and active member of some of the world’s leading professional security associations:
 
 - ISACA
 - The SANS Institute
